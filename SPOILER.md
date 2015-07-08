@@ -763,3 +763,107 @@ Read Wikipedia…
 ## [Level 61](http://www.deathball.net/notpron/love/therese.htm)
 
 1. Title: "61 - Bit of password hacking?"
+2. Source comment at the very bottom: `(C) davidm ...`
+3. Log in to the mail archive as `davidm`, no password required
+6. Read the mails
+  - sth. about `christine83` and her password being her favourite colour
+7. Edit URL, replace `davidm` with `christine`
+  - http://www.deathball.net/notpron/logon/christine/received.htm
+  - http://www.deathball.net/notpron/logon/christine/sent.htm
+  - username: "christine", password: "pink"
+8. Mail from christine83 on 11 Nov 2004 04:19 AM, "…original file…"
+9. So it's the image from "11 Nov 2004 04:00 AM":
+  - http://www.deathball.net/notpron/love/pic.php?time=1100142000
+10. Brighten the image and increase contrast
+
+`encroach(.htm)`
+
+## [Level 62](http://www.deathball.net/notpron/love/encroach.htm)
+
+1. Title: "evil"
+2. Image:
+  - ref. level 54
+  - EN-DE dictionary
+3. Source comment: `ch = h; ristl = k; ri = pil; sti = r; pil = e; ne = o`
+4. Decipher `christine`:
+  - `ch` = `h`
+  - `ri` = `pil` = `e`
+  - `sti` = `r`
+  - `ne` = `o`
+
+`hero(.htm)`
+
+## [Level 63](http://www.deathball.net/notpron/love/hero.htm)
+
+1. Title: "CAisO" (CA is O?)
+2. Sound...
+3. Image name: `DEisZ.jpg` (DE is Z?)
+4. Source comment: "make up your mind about the ligature"
+  - a "ligature" is a combination of two letters
+5. Transcribe the notes in the image (bound, equal notes count as one):
+  - `CF BA AE A`
+  - `A BG CE AE`
+  - `CD BB CE CB CA`
+  - `CB CG BE AA CD`
+
+Now, let's decode
+
+- from 1: **CA=O** => CB=P, CC=Q, CD=R, CE=S, CF=T, CG=U
+- from 3: DA=V, DB=W, DC=X, DD=Y <= **DE=Z**
+
+Visualize and complete (first letter determines line, second column):
+
+  | A | B | C | D | E | F | G
+--|---|---|---|---|---|---|---
+A | A | B | C | D | E | F | G
+B | H | I | J | K | L | M | N
+C | O | P | Q | R | S | T | U
+D | V | W | X | Y | Z | A | B
+E | C | D | E | F | G | H | I
+F | J | K | L | M | N | O | P
+G | Q | R | S | T | U | V | W
+
+And the message from 5 reads:
+
+`T H E A N S W E R I S P O P U L A R`
+
+`popular(.htm)`
+
+## [Level 64](http://www.deathball.net/notpron/love/popular.htm)
+
+1. Title: "Yellow"
+2. Image?
+  1. Homer ("The Odyssey of Homer")
+  2. Maggie (Maggi)
+  3. Bart (beard)
+  4. Lisa (Mona Lisa)
+  5. Marge (?)
+
+`marge(.htm)`
+
+## [Level 65](http://www.deathball.net/notpron/love/marge.htm)
+
+1. Title: "He who fails will proceed"
+2. Source comment regarding title: `no, it's not george w bush`
+3. Auth: "will you succeed?"
+4. 1 + 3 = abort authentication
+  - you will get to a page `/notpron/help/`
+  - inspect the source
+
+"fake", "page"
+
+## [Level 66](http://www.deathball.net/notpron/help/)
+
+1. Title: "The source knows it..."
+2. Source comment: `...was all among the "pr0n"`
+3. Removing the `not` from the URL `pron/help`
+  1. Text: "it's not here. its at the source"
+  2. Image: "i"
+4. Going to the notpron main page and look at the source
+  - `the source is on deathball/notpron/`
+5. Go to http://deathball.com/notpron (source code)
+  - meta keywords: a lot of pron/porn and in between `obscure`
+
+`obscure(.htm)`
+
+## [Level 67](http://www.deathball.net/notpron/help/obscure.htm)
