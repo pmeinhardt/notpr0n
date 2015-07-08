@@ -508,3 +508,23 @@ The next page looks like a 404 but leads you to the actual level 40…
 `scottymorris(.htm)`
 
 ## [Level 43](http://deathball.net/notpron/nomeaning/scottymorris.htm)
+
+1. Title: "Time flows"
+2. Image name: `43small.jpg`
+3. Look at `43large.jpg`
+4. Look closely at it
+
+`verysmall(.htm)`
+
+## [Level 44](http://deathball.net/notpron/nomeaning/verysmall.htm)
+
+1. Title: "On a stick…"
+2. Image name: `girly.jpg`
+3. Source comment: `all crazyness on a stick`
+4. Every line in the image contains a black square
+5. Cut the image into separate lines and align the black squares
+6. Letters begin to form (repeat lines left or right where necessary to get a full rectangle)
+
+`blow(.htm)`
+
+## [Level 45](http://deathball.net/notpron/nomeaning/blow.htm)
