@@ -867,3 +867,66 @@ And the message from 5 reads:
 `obscure(.htm)`
 
 ## [Level 67](http://www.deathball.net/notpron/help/obscure.htm)
+
+1. Title: "It was long and different..."
+2. Image: Stars… Orion's Belt!
+
+`orion(.htm)`, continuation…
+
+1. Image:
+  1. clock… 05:55:10
+  2. star
+2. Source comment: `who am i?`
+3. orion + 05 55 10 = "alpha" or "betelgeuse"
+
+`betelgeuse(.htm)`
+
+## [Level 68](http://www.deathball.net/notpron/help/betelgeuse.htm)
+
+1. Source:
+  1. hidden link: `blub/jaypackknewmore.htm`
+  2. image name: `68one.jpg`
+2. Changing image name (replace `one` with `two`…)
+  - pron at `68seven.jpg` (letter "c")
+3. Auth: "jaypack knows all"
+4. Jay Pack first showed up in level 8:
+  - check `mus2.jpg` again (EXIF/XMP info…)
+
+"notpron", "rules"
+
+## [Level 69](http://www.deathball.net/notpron/blub/jaypackknewmore.htm)
+
+1. Title: "FFF FFF FG#C#D#F"
+2. Auth: "played"
+
+"jingle", "bells"
+
+## [Level 70](http://www.deathball.net/notpron/bummel/)
+
+1. Title: "Who did that mess?"
+2. Image:
+  1. text: "opposite of next"
+  2. icon: Windows XP IE/Explorer next symbol at the bottom
+3. `back.htm`: "yeah...if I wasnt scattered around all over the screen!"
+4. Text is split into 4 pieces/quartes
+
+`quarterback(.htm`)
+
+## [Level 71](http://www.deathball.net/notpron/bummel/quarterback.htm)
+
+1. Title: "small cattle doing haze?"
+2. Image name: `developement.jpg`
+  - can fix it to `development.jpg`: "how ridicoulus"
+  - fix to `ridiculous.jpg`: "it this really neccessary?"
+  - fix, `necessary.jpg`: "got a diarhoea?"
+  - `diarrhoea.jpg`: "as .htm you funny person"
+  - `diarrhoea.htm`: source: `imediataly.jpg`
+
+`immediately.htm`
+
+## [Level 72](http://www.deathball.net/notpron/bummel/immediately.htm)
+
+1. Title: "Outside from dawn till dusk"
+2. Image:
+  1. numbers, different background colors and borders
+3. Source comment: `NO MATHS! There is no number pattern!`
