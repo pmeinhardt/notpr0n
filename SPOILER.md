@@ -528,3 +528,30 @@ The next page looks like a 404 but leads you to the actual level 40…
 `blow(.htm)`
 
 ## [Level 45](http://deathball.net/notpron/nomeaning/blow.htm)
+
+1. Title: "quarante-deux" (French for 42)
+2. Image:
+  1. top-left: "femogfyrre" (Danish for 45)
+  2. name: `quarenta.jpg` (Portuguese for 40)
+  3. top-right: "vierundvierzig" (German for 44)
+3. Text: "cuarenta y uno" (Spanish for 41)
+4. Source:
+  1. comment: `drieënveertig` (Dutch for 43)
+
+In order (think of the countries on a map):
+
+num | word                | country
+----|---------------------|----------
+40  | quarenta            | PT
+41  | cuarenta y uno      | ESP
+42  | quarante-deux       | FR
+43  | drieënveertig       | NL
+44  | vierundvierzig      | DE
+45  | femogfyrre          | DK
+46  | ??                  | ??
+
+Sweden? 46?
+
+`fyrtiosex(.htm)`
+
+## [Level 46](http://deathball.net/notpron/nomeaning/fyrtiosex.htm)
