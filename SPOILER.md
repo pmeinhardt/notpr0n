@@ -555,3 +555,97 @@ Sweden? 46?
 `fyrtiosex(.htm)`
 
 ## [Level 46](http://deathball.net/notpron/nomeaning/fyrtiosex.htm)
+
+1. Title: "For the meantime…"
+2. Image:
+  1. shows a mainboard or sth. similar
+  2. has patterns on it, tiles?
+  3. name: `46a.jpg`
+3. There is a `46b.jpg`
+4. Overlay `46b` onto `46a`
+
+"extra", "fun" (the link is in the source code `threethreethree`)
+
+## [Level 47](http://deathball.net/notpron/threethreethree/)
+
+1. Title:
+  1. "? o_o dbm o_o Ab7 o_o dbm"
+  2. source comment: "don't bother googling for the title, it will just mislead you by miles"
+2. dBm = "Decibel milliwatts", Ab7 = chord
+3. Sound: `mytune.mp3`
+
+Speed up and reverse again? I suck at this… had to look it up
+
+## [Level 48](http://deathball.net/notpron/threethreethree/gbdim.htm)
+
+1. Title: "GTTGCTCTTGAAAATACTATTAATGAA" (amino acids)
+2. Image shows DNA
+3. Use a DNA-translator
+
+`valentine(.htm)`
+
+## [Level 49](http://deathball.net/notpron/threethreethree/valentine.htm)
+
+1. Source comment:
+  1. `USA vs GERMANY`
+  2. `LBS vs KG`
+  3. `INCH vs CM`
+2. Auth: "911:dollarfahrenheit"
+3. 2 = convert to german counterparts
+
+"110", "eurocelsius"
+
+## [Level 50](http://deathball.net/notpron/flutsch/index.htm)
+
+1. Title: "shot!"
+2. Audio: `musagain5.mp3`
+3. Changing URL to `shot.htm`: "shot the LASER"
+
+`laser(.htm)`
+
+## [Level 51](http://deathball.net/notpron/flutsch/laser.htm)
+
+1. "It really ownz to just name whatever you see in the picture, doesn't it?"
+
+`tower(.htm)`
+
+## [Level 52](http://deathball.net/notpron/flutsch/tower.htm)
+
+1. "Carrying the branches"
+
+`tree(.htm)`
+
+## [Level 53](http://deathball.net/notpron/flutsch/tree.htm)
+
+1. "Long straight...."
+
+`road(.htm)`
+
+## [Level 50 (again)](http://deathball.net/notpron/flutsch/road.htm)
+
+1. "Mahahahah :D Foooooled! Come on, it ain't gonna be that easy!"
+2. Title: "Untitled Document"
+3. Source:
+  1. comment: "51-53 was a joke!"
+  2. 2 frames (one is the previous level 50)
+4. Open the [other one](http://deathball.net/notpron/flutsch/top.htm)
+5. Investigate the source…
+6. All the way to the end…
+
+`boring.htm`
+
+## [Level 51 (again)](http://deathball.net/notpron/flutsch/boring.htm)
+
+1. Title: "Unfair!"
+2. Image:
+  1. MineSweeper
+  2. Mouse on field, mine revealed
+  3. Cheating?
+3. Cheat for revealing mines is: "XYZZY"
+
+`xyzzy(.htm)`
+
+## [Level 52 (again)](http://deathball.net/notpron/flutsch/xyzzy.htm)
+
+1. Title: "Case sensitive"
+2. Map of Europe with pins on certain countries, upside-down
