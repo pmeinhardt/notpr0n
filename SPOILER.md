@@ -485,3 +485,12 @@ The next page looks like a 404 but leads you to the actual level 40…
 `more.htm`
 
 ## [Level 41](http://deathball.net/notpron/nomeaning/more.htm)
+
+1. Title: "eep"
+2. Music: `meep1.mp3`
+3. Why `meep1`? Download `meep2.mp3`
+4. Contains morse code: `__. . _. .. .._ ...`
+
+`genius(.htm)`
+
+## [Level 42](http://deathball.net/notpron/nomeaning/genius.htm)
