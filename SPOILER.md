@@ -494,3 +494,17 @@ The next page looks like a 404 but leads you to the actual level 40…
 `genius(.htm)`
 
 ## [Level 42](http://deathball.net/notpron/nomeaning/genius.htm)
+
+1. Title: "Originally written by..."
+2. Source comment: "don't waste your time by trying to go to 52"
+3. Text: `22 15 15 4 15 15`
+4. Image name: `nottired42.jpg`
+5. Image: notes
+  1. Piano part looks more interesting
+  2. F-clef, 4bs = As-Dur? (A-flat major)
+6. 3 = letters in the alphabet: "voodoo"
+7. A song by Big Bad Voodoo Daddy? Who's the composer for the band?
+
+`scottymorris(.htm)`
+
+## [Level 43](http://deathball.net/notpron/nomeaning/scottymorris.htm)
