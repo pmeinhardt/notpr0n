@@ -734,3 +734,32 @@ Speed up and reverse again? I suck at this… had to look it up
 `poetry.htm`
 
 ## [Level 59](http://www.deathball.net/notpron/love/poetry.htm)
+
+1. Title: "what am I for?"
+2. Image name: `rebus.jpg`
+3. Image:
+  - in my head there's only you
+  - the one that made my dreams come true
+  - when you're not around
+  - you make my poor heart pound
+  - you're the one i'll always love,
+  - & be forever dreaming of
+
+`money(.htm)`
+
+## [Level 60](http://www.deathball.net/notpron/love/money.htm)
+
+1. Title: "Who was it for?"
+2. Sound: `song.mp3`
+3. Image name: `octaved.jpg`
+4. 2 + 3 = change pitch (1 octave = 1200 cents) and speed it up
+
+It's apparantly "Für Elise", but `elise.htm` does not work: "no, it's not for me"
+
+Read Wikipedia…
+
+`therese(.htm)`
+
+## [Level 61](http://www.deathball.net/notpron/love/therese.htm)
+
+1. Title: "61 - Bit of password hacking?"
