@@ -648,4 +648,89 @@ Speed up and reverse again? I suck at this… had to look it up
 ## [Level 52 (again)](http://deathball.net/notpron/flutsch/xyzzy.htm)
 
 1. Title: "Case sensitive"
-2. Map of Europe with pins on certain countries, upside-down
+2. Map of Europe with pins, rotated 180°
+3. 1 + 2 = Not all pins match *capitals*
+4. Only:
+  - Belgium (B)
+  - Spain (E)
+  - Luxembourg (L)
+  - Austria (A)
+  - Switzerland (CH)
+
+`bleach(.htm)`
+
+## [Level 53 (again)](http://deathball.net/notpron/flutsch/bleach.htm)
+
+1. Title: "m34n" ("mean")
+2. Source comment: "dude, what was the end of that leet song again?"
+3. Sound: `music256.mp3`
+4. 2 + 3 = `music1337.mp3`
+5. Google the lyrics for that song or download and inspect meta info: "Simple Songs" - Big Bad Voodoo Daddy
+
+…she's the one for `me(.htm)`
+
+## [Level 54](http://deathball.net/notpron/flutsch/me.htm)
+
+1. Source comment next to `<html>` tag: `<--fucking right`
+2. Change file extension to `me.html`
+3. New picture: looks like chemical elements
+  - Pt_(3) (Platinum)
+  - Yb_(1) (Ytterbium)
+  - Er_(2) (Erbium)
+4. Indexes tell you how many letters to use from the full name
+
+`player(.htm)`
+
+## [Level 55](http://deathball.net/notpron/flutsch/player.htm)
+
+1. Title: "Nothing is as it seems..."
+2. Image:
+  1. "t" in the picture
+  2. name: `worst.jpg`
+3. Source comment: `Some Things: "things have changed, and they're only getting better"`
+4. Change image name:
+  1. `worse.jpg`: "g" in the picture
+  2. `bad.jpg`: "e"
+  3. `good.jpg`: "n"
+  4. `better.jpg`: "l"
+  5. `best.jpg`: "e"
+5. An anagram…
+
+`gentle(.htm)`
+
+## [Level 56](http://deathball.net/notpron/flutsch/gentle.htm)
+
+1. Title: "Think outside the box"
+2. Source:
+  1. comment: "Jay packed his picture away" (JPEG)
+  2. pic is actually a GIF
+3. 2.1: But there is also a JPEG version of it (`56.jpg`)
+4. JPEG contains subtle dots
+5. 2.2 flashes: "some noun draped as liquid, dark even. no wait isn't it just even more horrible as while you die?"
+6. Overlay…
+7. Draw a box, its corners where the dots are…
+8. 1: letters outside the box…
+
+`soundslikeitisterrible(.htm)`
+
+## [Level 57](http://deathball.net/notpron/flutsch/soundslikeitisterrible.htm)
+
+1. Title: "Mom, you'll never guess where I am"
+2. Source comment: `a 488`
+3. Image:
+  1. Phone booth, +90 (=> Turkey)
+  2. 488 is the area code for "Batman"
+
+"batman", "turkey"
+
+## [Level 58](http://www.deathball.net/notpron/love/wrongroad.htm)
+
+1. Title: "Wrong Road"
+2. Source comment: "been lead the wrong way?"
+3. Image name: `turnback.jpg`
+4. If you try to go back, you're instantly redirected and cannot reach `index.htm`
+5. Use `curl`: `curl http://batman:turkey@www.deathball.net/notpron/love/index.htm`
+
+`poetry.htm`
+
+## [Level 59](http://www.deathball.net/notpron/love/poetry.htm)
